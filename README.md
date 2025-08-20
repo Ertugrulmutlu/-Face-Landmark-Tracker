@@ -113,12 +113,6 @@ Outputs:
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
 ## 🔗 Further Reading
 
-A full technical breakdown is available in the accompanying blog post: \[BLOG\_URL\_PLACEHOLDER]
+A full technical breakdown is available in the accompanying blog post: https://dev.to/ertugrulmutlu/-face-landmarks-detection-opencv-dnn-facemark-440d
